@@ -1,0 +1,1 @@
+﻿DecryptBatti.exe "copy {0} {1}" source target
